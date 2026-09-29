@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="GundamShop.Api/GundamShop.Api.csproj" />
+  <Project Path="GundamShop.Bll/GundamShop.Bll.csproj" />
+  <Project Path="GundamShop.Dal/GundamShop.Dal.csproj" />
+</Solution>
